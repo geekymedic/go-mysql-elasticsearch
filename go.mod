@@ -11,3 +11,5 @@ require (
 	github.com/siddontang/go-log v0.0.0-20190221022429-1e957dd83bed
 	github.com/siddontang/go-mysql v0.0.0-20190524062908-de6c3a84bcbe
 )
+
+replace github.com/geekymedic/go-mysql-elasticsearch => github.com/geekymedic/go-mysql-elasticsearch master
